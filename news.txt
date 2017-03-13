@@ -1,0 +1,754 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<HEAD>
+<title>2016ÄêÖÐ¹ú½ðÒøÖé±¦ÀàÁãÊÛ¶îÓëÉÏÄê³ÖÆ½_¹ú¼ÊÖé±¦Íø</title>
+<meta name="keywords" content="ÉÏÄê,Öé±¦,½ðÒø,ÄêÖÐ¹ú,Ôö³¤,ÒÚÔª,µ±ÖÐ,ÁãÊÛ¶î,Ïû·ÑÆ·," />
+<meta name="description" content="ÖÐ¹ú¹ú¼ÒÍ³¼Æ¾ÖÈÕÇ°¹«²¼2016Äê¹úÃñ¾­¼ÃºÍÉç»á·¢Õ¹Í³¼Æ¹«±¨£¬ÆäÖÐÉç»áÏû·ÑÆ·ÁãÊÛ×Ü¶îÎªÈËÃñ±Ò332,316ÒÚÔª£¬Óë2015Äê±È½ÏÔö³¤10.4%£¬¿Û³ý¼Û¸ñÒòËØÊµ¼ÊÔö³¤9.6%£¬ÏÞ¶îÒÔÉÏÆóÒµÉÌÆ·ÁãÊÛ¶îµ±ÖÐ£¬½ðÒøÖé±¦ÀàÔòÓë2015Äê³ÖÆ½¡£ ¸ù¾ÝÍ³¼Æ¹«±¨£¬ÖÐ¹úÓÚ2016ÄêÈ«ÄêÍøÉÏÁã" />
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+
+</HEAD>
+
+<link href="http://www.wto168.net/newWeb/css/global_v1.css" rel="stylesheet" type="text/css">
+<link href="http://www.wto168.net/newWeb/css/news_v2.css" rel="stylesheet" type="text/css">
+<link href="/newWeb/css/common2.css" rel="stylesheet" type="text/css" />
+<link href="http://www.wto168.net/newWeb/templets/style/dedecms.css" rel="stylesheet" media="screen" type="text/css" />
+<style type="text/css">
+<!--
+body { background:#ffffff !important; font-size:12px;}
+#wto168NewsTitle{text-align:center; padding-top:20px; color:#be1570; font-size:16px; font-weight:bolder; letter-spacing:1px;}
+#wto168NewsContent{line-height:22px; font-size:14px; padding-top:10px; text-align:left; padding-left:10px; padding-right:10px;}
+#wto168NewsContent p{font-size:14px;}
+-->
+</style>
+
+<script type="text/javascript" src="http://www.wto168.net/newWeb/js/jquery.js"></script>
+<script type="text/javascript" src="http://www.wto168.net/newWeb/js/flashpic.js"></script>
+
+<SCRIPT LANGUAGE="javascript">
+function SetWinHeight(obj) 
+{ 
+var win=obj; 
+if (document.getElementById) 
+{ 
+if (win && !window.opera) 
+{ 
+if (win.contentDocument && win.contentDocument.body.offsetHeight) 
+win.height = win.contentDocument.body.offsetHeight; 
+else if(win.Document && win.Document.body.scrollHeight) 
+win.height = win.Document.body.scrollHeight; 
+} 
+} 
+} 
+
+
+function resize(){
+document.getElementById("right").style.height=document.getElementById("left").scrollHeight;
+}
+
+function zoom(g){
+	var fobj=document.getElementById("news_content");
+	
+	switch(g){
+		case 2:
+			fobj.style.fontSize = "12px";
+			break;
+		case 1:
+			fobj.style.fontSize = "16px";
+			break;
+		default:
+			fobj.style.fontSize = "14px";
+			break;
+	}
+}
+function showid(id){//document.getElementById(id).style.display='';
+  (document.getElementById(id).style.display=='')?document.getElementById(id).style.display='none':document.getElementById(id).style.display='';
+}
+//document.myform.content.onblur=
+//document.onkeydown = 
+function keyup(e){
+	document.onkeydown = function(e){
+        if(!e) e = window.event;//»ðºüÖÐÊÇ window.event
+        if((e.keyCode || e.which) == 13){
+            var obtnSearch=document.myform;
+			//alert(obtnSearch);
+			if(obtnSearch.content.value==''||obtnSearch.content.value=='ÆÀÂÛÁ½¾ä'){alert('ÇëÊäÈë·¢ÌûÄÚÈÝ!'); obtnSearch.content.focus();//ÈÃÁíÒ»¸ö¿Ø¼þ»ñµÃ½¹µã¾ÍµÈÓÚÈÃÎÄ±¾ÊäÈë¿òÊ§È¥½¹µã
+			}else{
+            obtnSearch.submit();
+			}
+        }
+	}
+  }
+</SCRIPT>
+
+<style>
+#flashpic { position:relative; width:300px; height:265px; overflow:hidden; }
+#pic { width:300px; height:265px; position:absolute; left:0px; top:0px; text-align:left}
+#play {
+position:absolute;
+width:100%;
+top:245px;
+left:0px;
+position:absolute;
+}
+#play a, #play a:visited {
+border:0 solid #fff;
+background-color:#002C9C;
+color:#fff;
+display:block;
+float:right;
+line-height:15px;
+margin-right:2px;
+text-align:center;
+text-decoration:none;
+width:15px;
+height:15px;
+}
+</style>
+
+<BODY>  <!-- header -->
+<div class="hg_header">
+  <div class="hg_head"> <span class="hg_left">¹ú¼ÊÖé±¦Íø,½ñÈÕ»Æ½ð¼Û¸ñ£¬Öé±¦¼ÓÃË£¬ÐÐÒµ×ÊÑ¶¼°Öé±¦ÕÐÉÌ½»Á÷µÄÖé±¦ÃÅ»§ÍøÕ¾¡£</span> <span class="hg_right">ÄúºÃ£¬»¶Ó­µÇÂ½¹ú¼ÊÖé±¦Íø£¡<span id="cltLogin" class="hg_login">[<a href="http://www.wto168.net/newWeb/member/">µÇÂ½</a>|<a href="http://www.wto168.net/newWeb/member/index_do.php?fmdo=user&dopost=regnew">Ãâ·Ñ×¢²á</a>]</span><span id="showwx" style="position:relative;"><img style="vertical-align: middle;width:22px" src="http://www.wto168.net/newWeb/images/wx.gif" /><div class="wxbig"><img src="http://www.wto168.net/newWeb/images/weixin.jpg" /></div></span><span style="margin-left:10px">·þÎñÈÈÏß£º0755-25911511</span></span> </div>
+</div>
+
+<script type="text/javascript" src="http://www.wto168.net/newWeb/js/script.js"></script>
+
+<LINK rel="stylesheet" type="text/css" href="http://www.wto168.net/newWeb/js/jquery.msgbox.css">
+
+<SCRIPT type="text/javascript" src="http://www.wto168.net/newWeb/js/jquery.dragndrop.min.js"></SCRIPT>
+<SCRIPT type="text/javascript" src="http://www.wto168.net/newWeb/js/jquery.msgbox.min.js"></SCRIPT>
+<SCRIPT language="JavaScript" type="text/javascript">  
+$("#showwx").hover(function(){
+$(".wxbig").css("display","block");
+},function(){
+$(".wxbig").css("display","none");
+})
+$(function(){   
+
+
+
+	$(function(){   
+
+	$("#lxwm").click(function(){
+		var index = $("#lxwm").index($(this));
+		eval($("#textarea").eq(index).val());
+	});
+
+});   
+  
+
+});   
+  
+</SCRIPT>
+<script type="text/javascript">
+
+ function show(id){
+  document.getElementById(id).style.display="block";
+  document.getElementById(id).style.backgroundColor='#fff';
+ if(id!="uc_digg"){document.getElementById("uc_digg").style.display="none";}
+ if(id!="uc_comment"){document.getElementById("uc_comment").style.display="none";}
+ if(id!="uc_member"){document.getElementById("uc_member").style.display="none";}
+ }
+</script>
+<script type="text/javascript">
+function dc(){
+window.open ('contact.html', 'newwindow', 'height=396, width=480, top=0,left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no') }
+</script>
+
+<div class="hg_m_width"  >
+  <div class="hg_mid_head">
+  <form action="http://www.wto168.net/newWeb/plus/search.php" name="search" onsubmit="return checkpost();">
+    <div class="logo"><img src="http://www.wto168.net/images/wto168logo2.png"></div>
+    <div class="hg_right" style="margin-top:40px">
+      <div class="hg_keybox">
+        <div class="hg_m">
+          <div class="search_type">
+            <input type="button" class="key_but" id="kts" value="Öé±¦ÆóÒµ">
+            <input type="hidden" name="keytype" id="ktv" value="1">
+            <div class="hg_select">
+              <ul>
+                <li><a val="1" style="cursor:pointer" >Öé±¦ÆóÒµ</a></li>
+                <li><a val="2"  style="cursor:pointer">Öé±¦²úÆ·</a></li>
+                <li><a val="5" style="cursor:pointer" >Öé±¦×ÊÑ¶</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="hg_left">
+            <input class="search_input" onblur="if (value ==''){value='ÇëÊäÈëÐèÒª²éÑ¯µÄ´ÊÓï'}" onfocus="if (value =='ÇëÊäÈëÐèÒª²éÑ¯µÄ´ÊÓï'){value =''}" value="ÇëÊäÈëÐèÒª²éÑ¯µÄ´ÊÓï" name="">
+          </div>
+          <div class="hg_right" style=" border-left:1px solid #b5b5b5">
+            <input type="image" src="/newWeb/images2/serchmo.jpg" id="doSearch" style="vertical-align: middle;cursor:pointer;">
+          </div>
+        </div>
+      </div>
+      <div class="hg_left" style="margin-left:20px">  <iframe class="iframestyle" src="http://www.wto168.net/gold/index.ajax2.php"></iframe>
+     </div>
+    </div>
+	</form>
+  </div>
+</div>
+<div class="clearf"></div>
+
+<div class="hg_nav">
+  <div class="hg_nav_ml">
+    <ul>
+       <li id="sy1"><a  href="http://www.wto168.net" target="_blank">Ê×Ò³</a></li>
+	   <li><a href='http://news.wto168.net/' class='hover'>×ÊÑ¶</a> </li>
+      <li id="sy2"><a  href="http://www.wto168.net/brand/"  rel='dropmenu29' target="_blank">Æ·ÅÆ¼ÓÃË</a></li>
+     
+      <li id="sy2"><a  href="http://shop.wto168.net/"  rel='dropmenu20' target="_blank">ÉÌ³¡</a></li>
+     
+      <li id="sy2"><a  href="http://expo.wto168.net/"  target="_blank">Õ¹»á</a></li>
+     
+      <li id="sy2"><a  href="http://www.wto168.net/yp/"  target="_blank">»ÆÒ³</a></li>
+     
+      <li id="sy2"><a  href="http://purchase.wto168.net/"  rel='dropmenu21' target="_blank">ÈÈµã²úÆ·</a></li>
+     
+      <li id="sy2"><a  href="http://bbs.wto168.net/"  rel='dropmenu181' target="_blank">ÉçÇø</a></li>
+     
+	  <li id="sy1"  ><a  href="http://www.zbwg.cc" target="_blank">Öé±¦Íõ¹ú</a></li>
+	      <li id="sy2"><a  href="http://haopin8.com/module/4.html" target="_blank">Öé±¦½Ö</a></li> 
+     <!--  <li id="sy2"><a  href="http://zbwg.cc/" target="_blank">Öé±¦Íõ¹ú</a></li> -->
+
+    </ul>
+  </div>
+</div>
+
+
+
+
+<textarea id="textarea" style="display:none">
+$.msgbox("<div id='ht' style='width:469px; height:430px; border:1px #da8626 solid; background:#fffdf4'><div><img src='http://www.wto168.net/images/l-a1.png' /></div><div style='margin-top:10px;'><img src='http://www.wto168.net/images/l-a2.png' /></div><div><ul><li style='font-size:16px; font-weight:bolder; color:#a5125d'>ÁãÊÛÉÌ·þÎñ:</li><li style='float:right; padding-right:150px;'><a href='tencent://message/?uin=929581800'><img src='http://wpa.qq.com/pa?p=8:929581800:4' alt='' border='0' align='absmiddle'/> </a></li></ul></div><div><img src='http://www.wto168.net/images/l-a3.png' /></div><div><ul><li style='font-size:16px; font-weight:bolder; color:#a5125d'>ÈË²Å·þÎñ:</li><li style='float:right; padding-right:150px;'><a href='tencent://message/?uin=378112600'><img src='http://wpa.qq.com/pa?p=8:378112600:4' alt='' border='0' align='absmiddle'/> </a></li></ul></div><div><img src='http://www.wto168.net/images/l-a3.png' /></div><div><ul><li style='font-size:16px; font-weight:bolder; color:#a5125d'>Æ·ÅÆ¡¢ÉÌ³¡·þÎñ:</li><li style='float:right; padding-right:150px;'><a href='tencent://message/?uin=760699168'><img src='http://wpa.qq.com/pa?p=8:760699168:4' alt='' border='0' align='absmiddle'/> </a></li></ul></div><div><img src='http://www.wto168.net/images/l-a3.png' /></div><div><ul><li style='font-size:16px; font-weight:bolder; color:#a5125d'>¹©Çó¡¢Õ¹»á·þÎñ:</li><li style='float:right; padding-right:150px;'><a href='tencent://message/?uin=929581800'><img src='http://wpa.qq.com/pa?p=8:929581800:4' alt='' border='0' align='absmiddle'/> </a></li></ul></div><div><img src='http://www.wto168.net/images/l-a3.png' /></div><div><ul><li style='font-size:16px; font-weight:bolder; color:#a5125d'>ÐÂÎÅ×ÊÑ¶:</li><li style='float:right; padding-right:150px;'><a href='tencent://message/?uin=824376518'><img src='http://wpa.qq.com/pa?p=8:824376518:4' alt='' border='0' align='absmiddle'/> </a></li></ul></div><div><img src='http://www.wto168.net/images/l-a3.png' /></div><div><ul><li style='font-size:16px; font-weight:bolder; color:#a5125d'>Í¶Ëß½¨Òé:</li><li style='float:right; padding-right:150px;'><a href='tencent://message/?uin=410005151'><img src='http://wpa.qq.com/pa?p=8:410005151:4' alt='' border='0' align='absmiddle'/> </a></li></ul></div><div><img src='http://www.wto168.net/images/l-a3.png' /></div><div><img src='http://www.wto168.net/images/l-a2.png' /></div></div>");</textarea>
+<script type="text/javascript" src="http://www.wto168.net/js/gjzbw.js"></script>
+
+<script>
+function setval(id){
+$("#ktv").val=id;
+}
+function checkpost(){
+ if(document.search.keyword.value==''||document.search.keyword.value=='ÇëÊäÈëÐèÒª²éÑ¯µÄ´ÊÓï'){
+  alert('ÇëÊäÈë²éÑ¯ÄÚÈÝ');
+  return false;
+ }
+}
+</script>
+<script type="text/javascript">
+$(".key_but").click(function(){
+$(".hg_select").css("display","block");
+	});
+$(".hg_select li").click(function(){
+	
+	$("#ktv").val($(this).find("a").attr("val"));
+	$("#kts").val($(this).find("a").text());
+	$(".hg_select").css("display","none");
+	
+	
+	});
+
+
+</script>
+
+<div class="nav_links "><a href="http://www.wto168.net/brand/details-1404147.html" target="_blank">Õýå«Öé±¦</a> | <a href="http://www.wto168.net/brand/details-74380.html" target="_blank">HKÏã¸ÛÖé±¦</a> | <a href="http://www.wto168.net/mg-chenim/" target="_blank">¾§Ê¯Áé²Ê±¦</a> | <a href="http://www.wto168.net/brand/details-1390872.html" target="_blank">½ðÖÁ¸£Öé±¦</a> | <a href="http://www.wto168.net/mg-romanti/" target="_blank">ÂÞÂüµÙÖé±¦</a> | <a href="http://www.wto168.net/mg-carolamber/" target="_blank">¼ÎÀÖçúçê</a> | <a href="http://www.wto168.net/mg-dianshigold/" target="_blank">Öé±¦ÔËÓªÍÐ¹Ü</a> | <a href="http://www.wto168.net/brand/details-1370534.html" target="_blank">½ðÒ»ôä´ä</a> | <a href="http://www.wto168.net/brand/details-121.html" target="_blank">ÀÏ·ïÏéÖé±¦</a> | <a href="http://www.wto168.net/brand/details-1350719.html" target="_blank">°Ù¾ôÖé±¦</a> |<a href="http://www.wto168.net/brand/details-1420262.html" target="_blank">Î¬ÂüÊ×ÊÎ°ü×°</a> | <a href="http://www.wto168.net/brand/details-110.html" target="_blank">ÖÜ´óÉúÖé±¦</a> | <a href="http://www.wto168.net/mg-lfuzb/index.html" target="_blank">Áù¸£Öé±¦</a> | </div>
+
+<script language="javascript" type="text/javascript">
+<!--
+function dktype(e){
+   try {
+	 var el=typeof e=="undefined"?event.srcElement:e.target;
+	switch (el.id){
+
+
+	case "kts" :
+		$("#iktype").toggle();
+		break;
+	default:
+		$("#iktype").css("display","");
+		break;
+	}
+   } catch(e) {}
+}
+$(document).ready(function(){$("#iktype a").each(function(){
+var uk=$(this).attr("href");$(this).removeAttr("href");$(this).click(function(){ if(uk.indexOf("#")==0) { uk=uk.substr(1);$("#kts").val($(this).html());$("#ktv").val(uk); } else {document.location.href=uk;}
+$(this).addClass("cur_selected").parent().siblings().each(function(){$(this).children("a").removeClass("cur_selected");});});});
+$("#doSearch").click(function(){ksearch()});
+});
+$(document).click(function(objEvent){dktype(objEvent);});
+//-->
+function setTab(m,n){
+var tli=document.getElementById("menu"+m).getElementsByTagName("li");
+var mli=document.getElementById("main"+m).getElementsByTagName("ul");
+for(i=0;i<tli.length;i++){
+   tli[i].className=i==n?"hover":"";
+   mli[i].style.display=i==n?"block":"none";
+}
+}
+function shown(id){
+var id="#"+id;
+$(id).show();
+
+}
+function hiden(id){
+var id="#"+id;
+$(id).hide();
+}
+</script>
+<!-- head end -->
+<script language="javascript" type="text/javascript">
+
+<!--
+function dktype(e){
+   try {
+	 var el=typeof e=="undefined"?event.srcElement:e.target;
+	switch (el.id){
+	case "kts" :
+		//$("iktype").style.display=$("iktype").style.display=='block'?'':'block';
+		$("#iktype").toggle();
+		break;
+	default:
+		/*
+		if ("iktype"==el.parentNode.parentNode.id){
+			//$("kts").value = document.all?el.innerText:el.textContent;
+			$("#kts").val(document.all?el.innerText:el.textContent);
+			var siblings = el.parentNode.parentNode.getElementsByTagName("A");
+			for(var i=0;i<siblings.length;i++) siblings[i].className='';
+			el.className = "cur_selected";
+		}
+		**/
+		//$('iktype').style.display='';
+		$("#iktype").css("display","");
+		break;
+	}
+   } catch(e) {}
+}
+
+
+$(document).ready(function(){$("#iktype a").each(function(){
+var uk=$(this).attr("href");$(this).removeAttr("href");$(this).click(function(){ if(uk.indexOf("#")==0) { uk=uk.substr(1);$("#kts").val($(this).html());$("#ktv").val(uk); } else {document.location.href=uk;}
+$(this).addClass("cur_selected").parent().siblings().each(function(){$(this).children("a").removeClass("cur_selected");});});});
+$("#doSearch").click(function(){ksearch()});
+});
+$(document).click(function(objEvent){dktype(objEvent);});
+//-->
+</script>
+<div class="hg_x_width">
+<div class="hg_left">
+  <div class="hg_news_left" style="border-color:#f1f1f1">
+ <div class="ur_here"><a href="http://www.wto168.nethttp://www.wto168.net">¹ú¼ÊÖé±¦Íø</a> &gt; <a href="http://news.wto168.net/">×ÊÑ¶</a> &gt; <a href="http://news.wto168.net/zixun/guowaixinwen/">¹ú¼ÊÐÂÎÅ</a> &gt; </div> 
+
+  <div class="news_c">
+  <div class="news_t">  <h1>2016ÄêÖÐ¹ú½ðÒøÖé±¦ÀàÁãÊÛ¶îÓëÉÏÄê³ÖÆ½</h1></div>
+  <div class="news_time"><span>2017-03-11 23:11 </span>  <span>×÷Õß£º×ÊÑ¶ÉçÇø·þÎñ</span>  <span>ÎÄÕÂÀ´Ô´£ºÎ´Öª </span>  <span>µã»÷:<script src="http://www.wto168.net/newWeb/plus/count.php?view=yes&aid=1703748&mid=15393" type='text/javascript' language="javascript"></script></span> </div>
+  <div class="news_centent" id="wto168NewsContent"><table><tr><td><p>&nbsp;ÖÐ¹ú¹ú¼ÒÍ³¼Æ¾ÖÈÕÇ°¹«²¼2016Äê¹úÃñ¾­¼ÃºÍÉç»á·¢Õ¹Í³¼Æ¹«±¨£¬ÆäÖÐÉç»áÏû·ÑÆ·ÁãÊÛ×Ü¶îÎªÈËÃñ±Ò332,316ÒÚÔª£¬Óë2015Äê±È½ÏÔö³¤10.4%£¬¿Û³ý¼Û¸ñÒòËØÊµ¼ÊÔö³¤9.6%£¬ÏÞ¶îÒÔÉÏÆóÒµÉÌÆ·ÁãÊÛ¶îµ±ÖÐ£¬½ðÒø<a href='http://www.wto168.net/'><b>Öé±¦</b></a>ÀàÔòÓë2015Äê³ÖÆ½¡£</p>
+<div>&nbsp;</div>
+<div>¸ù¾ÝÍ³¼Æ¹«±¨£¬ÖÐ¹úÓÚ2016ÄêÈ«ÄêÍøÉÏÁãÊÛ¶îÎª51,556ÒÚÔª£¬½Ï2015ÄêÔö³¤26.2%£¬µ±ÖÐÍøÉÏÉÌÆ·ÁãÊÛ¶îÎª41,944ÒÚÔª£¬Ôö³¤´ï25.6%£¬×Éç»áÏû·ÑÆ·ÁãÊÛ×Ü¶îµ±ÖÐ12.6%¡£</div></td></tr></table></div>
+  <div class="pager_2" ><ul></ul></div>
+  <script>
+ $(".pager_2").width($(".pager_2 ul").width()+10);
+  
+  </script>
+
+  <div style="overflow:hidden;width:500px;margin:30px auto 0 auto">
+  <div style="float:left;width:250px"><div class="bdsharebuttonbox">
+ <a href="#" class="fx_tsina" data-cmd="tsina" title="·ÖÏíµ½ÐÂÀËÎ¢²©"></a>
+<a href="#" class="fx_tqq" data-cmd="tqq" title="·ÖÏíµ½ÌÚÑ¶Î¢²©"></a>
+   <a href="#" class="fx_weixin" data-cmd="weixin" title="·ÖÏíµ½Î¢ÐÅ"></a>
+ <a href="#" class="fx_douban" data-cmd="douban" title="·ÖÏíµ½¶¹°êÍø"></a>
+ <a href="#" class="fx_more" data-cmd="more"></a> 
+  </div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"2","bdSize":"32"},"share":{},"image":{"viewList":["tsina","renren","qzone","tqq"],"viewText":"·ÖÏíµ½£º","viewSize":"16"}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script></div>
+  <div class="hg_right wxermart"><img src="/newWeb/images2/weixin.jpg"/><div class="txt"><span style="font-size:15px;">¹ú¼ÊÖé±¦Íø</span></br>Î¢ÐÅ¹«ÖÚºÅ</div></div>
+</div>
+  
+
+
+  </div>
+   <div class="comment_box" style="width:640px">
+  <iframe width="660" align="center" height="352" id="win" name="win" id="comments" onload="Javascript:SetWinHeight(this)" 
+  frameborder="0" scrolling="yes" src="/newWeb/digg2.php?id=1703748"></iframe> 
+
+  </div>
+
+<DIV STYLE="width:654px; padding-left:0px;">
+          <DIV STYLE="color:#ff0000; font-weight:bolder; text-align:left; padding-left:10px; padding-bottom:5px; padding-top:25px; clear:both;padding-top:25px;font-size:16px;"> >> Ïà¹ØÐÂÎÅ</DIV>
+         
+          <DIV STYLE="width:634px; padding-top:5px;height:auto;overflow:hidden;padding-left:10px;border-top:1px solid #cccccc;padding-bottom:10px;" class="xgnews">
+  
+				 
+            <UL><LI STYLE="width:250px; padding-top:8px; font-size:14px; color:#1f3a87;text-align:left;margin-left:44px"> <a href='http://news.wto168.net/zixun/guowaixinwen/2017/0313/1703767.html'>¹ú¼ÊÖé±¦Íø¡²2017-03-13¡³Öé±¦¼ò</a></LI>
+<LI STYLE="width:250px; padding-top:8px; font-size:14px; color:#1f3a87;text-align:left;margin-left:44px"> <a href='http://news.wto168.net/zixun/guowaixinwen/2017/0311/1703746.html'>1ÔÂ·ÝÏã¸ÛÖé±¦ÁãÊÛ×Ü¶îÎ¢µø</a></LI>
+<LI STYLE="width:250px; padding-top:8px; font-size:14px; color:#1f3a87;text-align:left;margin-left:44px"> <a href='http://news.wto168.net/zixun/guowaixinwen/2017/0310/1703694.html'>±£ÀûÏã¸Û4ÔÂ´ºÅÄ</a></LI>
+<LI STYLE="width:250px; padding-top:8px; font-size:14px; color:#1f3a87;text-align:left;margin-left:44px"> <a href='http://news.wto168.net/zixun/guowaixinwen/2017/0310/1703693.html'>ÇÀÕ¼ÏÈ»úÕÆÎÕÖé±¦Éè¼ÆÇ÷ÊÆ ×¨¼Ò</a></LI>
+<LI STYLE="width:250px; padding-top:8px; font-size:14px; color:#1f3a87;text-align:left;margin-left:44px"> <a href='http://news.wto168.net/zixun/guowaixinwen/2017/0310/1703689.html'>¹ú¼ÊÖé±¦Íø¡²2017-03-10¡³Öé±¦¼ò</a></LI>
+<LI STYLE="width:250px; padding-top:8px; font-size:14px; color:#1f3a87;text-align:left;margin-left:44px"> <a href='http://news.wto168.net/zixun/guowaixinwen/2017/0309/1703623.html'> ¹ú¼ÊÖé±¦Íø¡²2017-03-09¡³Öé±¦</a></LI>
+<LI STYLE="width:250px; padding-top:8px; font-size:14px; color:#1f3a87;text-align:left;margin-left:44px"> <a href='http://news.wto168.net/zixun/guowaixinwen/2017/0309/1703616.html'>hi Å®Éñ£¬¿ìÀ´ÁìÈ¡ÄãµÄ×¨ÊôÑûÇë</a></LI>
+<LI STYLE="width:250px; padding-top:8px; font-size:14px; color:#1f3a87;text-align:left;margin-left:44px"> <a href='http://news.wto168.net/zixun/guowaixinwen/2017/0308/1703578.html'>±¦Ê«ÁúÏµÁÐÁé»ê²¨Ï£Ã×ÑÇÉßÐÍÏµÁÐ</a></LI>
+<LI STYLE="width:250px; padding-top:8px; font-size:14px; color:#1f3a87;text-align:left;margin-left:44px"> <a href='http://news.wto168.net/zixun/guowaixinwen/2017/0308/1703572.html'>¹ú¼ÊÖé±¦Íø¡²2017-03-08¡³Öé±¦¼ò</a></LI>
+<LI STYLE="width:250px; padding-top:8px; font-size:14px; color:#1f3a87;text-align:left;margin-left:44px"> <a href='http://news.wto168.net/zixun/guowaixinwen/2017/0306/1703513.html'>¹ú¼ÊÖé±¦Íø¡²2017-03-06¡³Öé±¦¼ò</a></LI>
+
+            
+              
+            </UL>
+          </DIV>
+		  <DIV STYLE="border-top:1px dashed #cccccc; margin-top:15px; "></DIV>
+		  <DIV STYLE="color:#ff0000; font-weight:bolder;margin-top:10px; text-align:left; padding-left:10px; padding-bottom:5px; clear:both;font-size:16px"> >> ÈÈµãÍ¼Æ¬</DIV>
+		  
+			
+          
+		  <DIV STYLE="padding-top:15px;border-top:1px solid #ccc">
+		  
+             <UL STYLE="width:160px; height:130px; float:left">
+		  <LI STYLE="width:160px; text-align:center"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0310/1703705.html"><IMG SRC="http://www.wto168.net/newWeb/uploads/allimg/170310/15393_170310112822_1-lp.png"  onerror="javascript:this.src='http://www.wto168.net/newWeb/images/defaultpic.gif';"  HEIGHT="102" WIDTH="130" BORDER="0"></A></LI>
+		  <LI STYLE="width:160px; text-align:center; padding-top:2px;"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0310/1703705.html">ÂÞÂüµÙ£ºÔ­°®¡¤³õÐÄ |</A></LI>
+		  </UL>
+<UL STYLE="width:160px; height:130px; float:left">
+		  <LI STYLE="width:160px; text-align:center"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0310/1703690.html"><IMG SRC="http://news.wto168.net/newWeb/uploads/allimg/170310/15393_170310101841_4.png"  onerror="javascript:this.src='http://www.wto168.net/newWeb/images/defaultpic.gif';"  HEIGHT="102" WIDTH="130" BORDER="0"></A></LI>
+		  <LI STYLE="width:160px; text-align:center; padding-top:2px;"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0310/1703690.html">ÖÜ´ó¸£¡¶ÃÀÅ®ÓëÒ°ÊÞ¡·</A></LI>
+		  </UL>
+<UL STYLE="width:160px; height:130px; float:left">
+		  <LI STYLE="width:160px; text-align:center"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0309/1703653.html"><IMG SRC="http://www.wto168.net/newWeb/uploads/allimg/170309/15393_170309155943_1-lp.jpg"  onerror="javascript:this.src='http://www.wto168.net/newWeb/images/defaultpic.gif';"  HEIGHT="102" WIDTH="130" BORDER="0"></A></LI>
+		  <LI STYLE="width:160px; text-align:center; padding-top:2px;"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0309/1703653.html">½ðÑÅ¸£Öé±¦·ÖÎö¿´2017</A></LI>
+		  </UL>
+<UL STYLE="width:160px; height:130px; float:left">
+		  <LI STYLE="width:160px; text-align:center"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0309/1703642.html"><IMG SRC="http://www.wto168.net/newWeb/uploads/allimg/170309/15393_170309144203_1-lp.png"  onerror="javascript:this.src='http://www.wto168.net/newWeb/images/defaultpic.gif';"  HEIGHT="102" WIDTH="130" BORDER="0"></A></LI>
+		  <LI STYLE="width:160px; text-align:center; padding-top:2px;"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0309/1703642.html">ÃÎÏé´¿Òø£º¹ºÂòÒøÊÎÆ·</A></LI>
+		  </UL>
+<UL STYLE="width:160px; height:130px; float:left">
+		  <LI STYLE="width:160px; text-align:center"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0309/1703641.html"><IMG SRC="http://www.wto168.net/newWeb/uploads/allimg/170309/15393_170309143853_1-lp.jpg"  onerror="javascript:this.src='http://www.wto168.net/newWeb/images/defaultpic.gif';"  HEIGHT="102" WIDTH="130" BORDER="0"></A></LI>
+		  <LI STYLE="width:160px; text-align:center; padding-top:2px;"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0309/1703641.html">Å®Éñ½Ú¼ªÃËÖé±¦Ï×Àñ£¬</A></LI>
+		  </UL>
+<UL STYLE="width:160px; height:130px; float:left">
+		  <LI STYLE="width:160px; text-align:center"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0309/1703624.html"><IMG SRC="http://www.wto168.net/newWeb/uploads/allimg/170309/15393_170309102934_1-lp.png"  onerror="javascript:this.src='http://www.wto168.net/newWeb/images/defaultpic.gif';"  HEIGHT="102" WIDTH="130" BORDER="0"></A></LI>
+		  <LI STYLE="width:160px; text-align:center; padding-top:2px;"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0309/1703624.html">Ð»Èð÷ëÈ«ÐÂ¡¸ÏÖ´úÊÖ×÷</A></LI>
+		  </UL>
+<UL STYLE="width:160px; height:130px; float:left">
+		  <LI STYLE="width:160px; text-align:center"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0309/1703619.html"><IMG SRC="http://www.wto168.net/newWeb/uploads/allimg/170309/15393_170309094512_1-lp.png"  onerror="javascript:this.src='http://www.wto168.net/newWeb/images/defaultpic.gif';"  HEIGHT="102" WIDTH="130" BORDER="0"></A></LI>
+		  <LI STYLE="width:160px; text-align:center; padding-top:2px;"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0309/1703619.html">½ð¼Î¸£Öé±¦¡¶ÐÒ¸£»¨Óï</A></LI>
+		  </UL>
+<UL STYLE="width:160px; height:130px; float:left">
+		  <LI STYLE="width:160px; text-align:center"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0308/1703607.html"><IMG SRC="http://www.wto168.net/newWeb/uploads/allimg/170308/15393_170308162854_1-lp.png"  onerror="javascript:this.src='http://www.wto168.net/newWeb/images/defaultpic.gif';"  HEIGHT="102" WIDTH="130" BORDER="0"></A></LI>
+		  <LI STYLE="width:160px; text-align:center; padding-top:2px;"><A href="http://news.wto168.net/zixun/liuxingshishang/2017/0308/1703607.html">ÀÏÃí»Æ½ð£ºÅ®ÉñÆäÊµ¶¼</A></LI>
+		  </UL>
+
+		
+		  
+        </DIV>
+    </DIV>
+
+  </div>
+ 
+   <div class="hg_new_right">
+	<div class="news_r_box">
+      <div class="">
+		<a href="http://www.zbwg.cc"  rel="nofollow "  target="_blank" >
+			<img src="/newWeb/image/zbwgpc.jpg"/>
+		</a>
+	  </div>
+    </div>
+    <div class="news_r_box">
+      <div class="news_r_tit"><a href="http://news.wto168.net/zixun/jinrixinwen/list_57_1.html">ÐÐÒµÍ¸ÊÓ</a></div>
+      <ul style="padding-left:30px">
+	  <li><a target="_blank" href="http://news.wto168.net/zixun/jinrixinwen/2016/0726/1442087.html">2016ÄêÖÐ¹úÊ®´óÒøÊÎÆ·ÅÆÅÅÐÐ°ñÀ´</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/jinrixinwen/2016/1213/1612392.html">µÚÈý½ì¡°ÖÐ¹úÖé±¦Æ·ÅÆÎå´ó¡±°ä½±</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/jinrixinwen/2016/1118/1599924.html">°ÙÌ©»Æ½ð£ºÖ±Ãæ¹ýÈ¥²ÅÄÜ×ßÏòÎ´À´</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/jinrixinwen/2016/1109/1592582.html">ÓÖÒ»Öé±¦Æ·ÅÆ³·³ö¾©¶« Öé±¦µçÉÌ</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/jinrixinwen/2016/0913/1445651.html">ÉîÛÚÖé±¦Õ¹£¬¸úÖéÖéÒ»ÆðÑ°±¦°É</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/jinrixinwen/2016/0806/1442841.html">½âÃÜ£º¹ú¼ÊÖé±¦ÍøÓëµÚ25½ì½ð¼¦°Ù</a></li>
+
+      </ul>
+    </div>
+    <div class="news_r_box" style="margin-top:30px">
+      <div class="news_r_tit"><a href="http://news.wto168.net/zixun/guowaixinwen/">¹ú¼ÊÐÂÎÅ</a></div>
+      <ul style="padding-left:30px">
+        <li><a target="_blank" href="http://news.wto168.net/zixun/guowaixinwen/2016/1010/1506901.html">Ïã¸ÛÊ®´óÖé±¦Æ·ÅÆÅÅÐÐ°ñ</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/guowaixinwen/2017/0303/1703453.html">±©ÀûµÄÖé±¦ÐÐÒµ--¡¶2016Äê¡ª2022</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/guowaixinwen/2017/0220/1702765.html">µÂ¹ú»Æ½ð¡°·µÏç¡±ÊÇÃÀ¹ú²»ÖµµÃÐÅ</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/guowaixinwen/2016/0713/1440885.html">TTF 2017¼¦ÄêÉúÐ¤Ê×ÊÎÉè¼Æ´óÈü×÷</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/guowaixinwen/2016/0809/1442949.html">µÚ25½ìÖÐ¹ú½ð¼¦°Ù»¨µçÓ°½ÚôßµÚ33</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/guowaixinwen/2016/0721/1441770.html">2016ÄêÊÀ½çÊ®´óÖé±¦Æ·ÅÆ³öÂ¯À²£¡</a></li>
+
+      </ul>
+    </div>
+  
+    <div class="news_r_box" style="margin-top:30px">
+      <div class="news_r_tit"><a href="http://news.wto168.net/zixun/liuxingshishang/">Ê±ÉÐÖé±¦</a></div>
+      <ul style="padding-left:30px">
+          <li><a target="_blank" href="http://news.wto168.net/zixun/liuxingshishang/2017/0223/1703002.html">Èü·Æ¶û£º´ºÅ¯»¨¿ªÊ± åâåËÃÀÀö</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/liuxingshishang/2016/0829/1444736.html">½ñÏÄ×îÊ±÷ÖµÄÖé±¦Ê×ÊÎ»¹ÓÐËü</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/liuxingshishang/2016/1124/1600870.html">Shining House ×êÊ¯ÊÀ¼Ò ¡°Ò»Éú</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/liuxingshishang/2016/0926/1498220.html">Tasaki¸ß¼¶Öé±¦ß¢È¡×ÔÈ»Áé¸Ð Ö¦</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/liuxingshishang/2016/0613/1438945.html">Õ¹ÏÖ×ÔÈ»ÍòÎïµÄ»Ã±äÖ®ÔÏ£¡µÙÜ½Äá</a></li>
+<li><a target="_blank" href="http://news.wto168.net/zixun/liuxingshishang/2016/0909/1445419.html">ÖÜ´óÉúÖé±¦£º°ÇÒ»°Ç¹Å°£¼°ÈËÃñµÄ</a></li>
+
+      </ul>
+    </div>
+  </div>
+  </div>
+ 
+
+<link href="http://www.wto168.net/newWeb/templets/style/layout1.css" rel="stylesheet" type="text/css">
+
+<div class=" hg_footertop">
+  <div class="hg_x_width">
+    <div class="hg_left"><a target="_blank" href="/newWeb/member/Banner_Manager/ad_main_n.htm">¹ºÂò¹ã¸æ</a> | <a target="_blank" href="http://www.wto168.net/xinxi/">ÐÅÏ¢ºÏ×÷</a> | <a target="_blank" href="/newweb/lxwm.html">ÁªÏµÎÒÃÇ</a> | <a href="/map.asp">¹ú¼ÊÖé±¦ÍøÕ¾µØÍ¼</a> | <a href="http://hr.wto168.net/">ÈË²Å</a> | <a href="http://seek.wto168.net/">¹©Çó</a> | <a href="/newWeb/gywm.html">¹ØÓÚÎÒÃÇ</a>  </div>
+    <div class="hg_right"><a target="_blank" href="http://m.wto168.net/">¹ú¼ÊÖé±¦ÍøÊÖ»ú°æ</a> | <a target="_blank" href="/adgm/">Æ·ÅÆÆÀÑ¡»î¶¯ÊÖ»ú°æ</a> </div>
+  </div>
+</div>
+<div class="hg_x_width hg_footer">
+  <div class=" hg_x_width"> 
+  <div><span>¹ú¼ÊÖé±¦ÍøÌÚÑ¶¹Ù·½QQÈº£º91332835 </span> <span style="margin-left:144px">¹ú¼ÊÖé±¦ÍøÐÂÀË¹Ù·½Î¢²©£ºhttp://e.weibo.com/gjzbw</span> <span style="float:right">¹ú¼ÊÖé±¦Íø¹ÙÍøÓÊÏä£ºwto168@wto168.net</span> </div>
+ <div style="clear:both">
+    <span>¹ú¼ÊÖé±¦ÍøÎ¨Ò»¹Ù·½ÍøÖ·£ºwww.wto168.net£¬ÊÇÎ¨Ò»È¡µÃ¡°¹ú¼ÊÖé±¦Íø¡±Ãû³Æ¾­ÓªÐí¿ÉÖ¤µÄÕ¾µã </span> <span style="float:right;width:311px;display:block;float:right;text-align:right">ÔöÖµµçÐÅÒµÎñ¾­ÓªÐí¿ÉÖ¤£ºÔÁB2-20080349</span> </div>
+   <div style="clear:both"> <span>¹ú¼ÊÖé±¦Íø°æÈ¨ÓëÖø×÷È¨¹é»ãÉÌ³ÉÏèÍ¶×Ê¹«Ë¾ËùÓÐ£º   ÈíÖøµÇ×ÖµÚ0279856ºÅ </span> <span style="float:right;width:311px;display:block;float:right;text-align:right">±¸°¸ºÅ£ºÔÁICP±¸09078371ºÅ-15 </span> </div>
+    <p>¹ú¼ÊÖé±¦Íø¹ú¼ÊÐÂÎÅÆµµÀ£¬¸ú×Ù±¨µÀ¹ú¼ÊÖé±¦Æ·ÅÆÐÂ¶¯Ïò£¬¾Û½¹Öé±¦ÐÐÒµÐÂÎÅÈÈµã£¬½Ú¼ÙÓÅ»Ý×¨Ìâ×Ü½á£¬¹ú¼ÊÓÑÈËÈÕ³£Öé±¦Éú»î·ÖÏíµÈ¡£ÎÒÃÇµÄÄ¿±êÊÇÍ¸¹ýÖé±¦¿´ÊÀ½ç¡£</p>
+  </div>
+</div>
+<div class="hg_x_width" style="padding-top:13px">
+  <script id="ebsgovicon" src="http://szcert.ebs.org.cn/govicon.js?id=43bfcd96-552b-41b3-82b7-0f0eeec7b602&amp;width=36&amp;height=50&amp;type=1" type="text/javascript" charset="utf-8"></script>
+   
+  <script type="text/javascript" src="http://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js"></script>  <script src="http://kxlogo.knet.cn/seallogo.dll?sn=2011021800100006528&amp;size=0"></script>
+   
+  <a href="http://www.wto168.net/beian.html" target="_blank"> <img src="http://www.wto168.net/icp/beian.gif" border="0" alt="¾­ÓªÐÔÍøÕ¾±¸°¸ÐÅÏ¢"></a> <a rel="nofollow" href="http://www.sznet110.gov.cn/index.jsp" target="_blank"> <img src="http://www.wto168.net/icp/baojing.gif" alt="ÍøÂç110±¨¾¯·þÎñ" border="0"></a> 
+
+   <a rel="nofollow" key="551f4a830fb51d02141ef9ee" logo_size="124x47" logo_type="business" href="http://v.pinpaibao.com.cn/authenticate/cert/?site=www.wto168.net&amp;at=business" target="_blank">
+         <script src="http://static.anquan.org/static/outer/js/aq_auth.js"></script><b id="aqLogoSWNEY" style="display: none;"></b> 
+        </a>
+		<div class="hg_right"><span style="color: #5d5d5d;padding-right: 10px;display: inline-block;width: 297px;height: 40px;border-right: 1px solid #eee;    vertical-align: top; text-align:right;    line-height: 24px;">ÖÐ¹ú»¥ÁªÍøÐÅÏ¢ÖÐÐÄÊÚÓè¡¶¿ÉÐÅÍøÕ¾Ê¾·¶µ¥Î»¡·<br>
+ÖÐ¹ú×î¾ßÓ°ÏìÁ¦µÄÖé±¦ÐÐÒµÃÅ»§ÍøÕ¾  </span><img style="width:100px;    vertical-align: top;" src="/newWeb/images2/hglogo.jpg" <="" div="">
+</div>
+</div>
+
+</div>
+<script type="text/javascript" src="http://cs.ecqun.com/?id=324631" charset="utf-8"></script>
+
+<!-- ÓÒ²à²Ëµ¥ -->
+<div class="hg_rmenu">
+  <ul>
+   <!-- <li>
+      <div class="box"><img src="/newWeb/images2/r_menu_03.png" /></div>
+    </li> -->
+    <li  id="jishitongid" title="¼´Ê±Í¨">
+      <div class="box"><img src="/newWeb/images2/r_menu_06.png" /></div>
+      <div class="jishitong"><!-- /userlogin -->
+        <div style="padding-top:10px; line-height:10px;text-align:center" ><strong>ÔÚÏßÓÃ»§<font style='font-size:16px;'>1232</font>ÈË,ÓÃ<a href="/im/"><font style='font-size:16px;'>¼´Ê±Í¨</font></a>¹µÍ¨</strong>
+          <hr width="185" style="margin:0 auto;">
+          <ul class="e7">
+            <li style="position:relative;height:76px"  onmouseover="shown('384')"
+onmouseout="hiden('384')"
+>
+              <div id='384' style="display:none;position:absolute;top:30px;width: 60px;height: 60px;z-index: 11;left: 0px;text-align: left;"><a href="http://www.wto168.net/im/index.php?uid=yfxzbss&talk=1" style="
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    background: #eee;
+">µã»÷ÁÄÌì</a><a href="http://www.wto168.net/mg-yfxzbss/" style="
+    width: 100%;  height: 20px;  line-height: 20px;  
+    background: #eee;
+">²é¿´Ö÷Ò³</a></div>
+              <a href="http://www.wto168.net/mg-yfxzbss/" target="_blank"><img face="" onerror="src='http://www.wto168.net/newweb/member/images/nopic.gif'" src="http://www.wto168.net/newweb/member/images/nopic.gif"  width="33" height="33" />yfxzbs</a></li><li style="position:relative;height:76px"  onmouseover="shown('126410')"
+onmouseout="hiden('126410')"
+>
+              <div id='126410' style="display:none;position:absolute;top:30px;width: 60px;height: 60px;z-index: 11;left: 0px;text-align: left;"><a href="http://www.wto168.net/im/index.php?uid=chenim&talk=1" style="
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    background: #eee;
+">µã»÷ÁÄÌì</a><a href="http://www.wto168.net/mg-chenim/" style="
+    width: 100%;  height: 20px;  line-height: 20px;  
+    background: #eee;
+">²é¿´Ö÷Ò³</a></div>
+              <a href="http://www.wto168.net/mg-chenim/" target="_blank"><img face="/newWeb/uploads/userup/126410/myface.jpg" onerror="src='http://www.wto168.net/newweb/member/images/nopic.gif'" src="/newWeb/uploads/userup/126410/myface.jpg"  width="33" height="33" />chenim</a></li><li style="position:relative;height:76px"  onmouseover="shown('132647')"
+onmouseout="hiden('132647')"
+>
+              <div id='132647' style="display:none;position:absolute;top:30px;width: 60px;height: 60px;z-index: 11;left: 0px;text-align: left;"><a href="http://www.wto168.net/im/index.php?uid=alicezb&talk=1" style="
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    background: #eee;
+">µã»÷ÁÄÌì</a><a href="http://www.wto168.net/mg-alicezb/" style="
+    width: 100%;  height: 20px;  line-height: 20px;  
+    background: #eee;
+">²é¿´Ö÷Ò³</a></div>
+              <a href="http://www.wto168.net/mg-alicezb/" target="_blank"><img face="/newWeb/uploads/userup/132647/myface.jpg" onerror="src='http://www.wto168.net/newweb/member/images/nopic.gif'" src="/newWeb/uploads/userup/132647/myface.jpg"  width="33" height="33" />°®ÀöË¿</a></li><li style="position:relative;height:76px"  onmouseover="shown('213192')"
+onmouseout="hiden('213192')"
+>
+              <div id='213192' style="display:none;position:absolute;top:30px;width: 60px;height: 60px;z-index: 11;left: 0px;text-align: left;"><a href="http://www.wto168.net/im/index.php?uid=jymcn2016&talk=1" style="
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    background: #eee;
+">µã»÷ÁÄÌì</a><a href="http://www.wto168.net/mg-jymcn2016/" style="
+    width: 100%;  height: 20px;  line-height: 20px;  
+    background: #eee;
+">²é¿´Ö÷Ò³</a></div>
+              <a href="http://www.wto168.net/mg-jymcn2016/" target="_blank"><img face="/newWeb/uploads/userup/213192/myface.jpg" onerror="src='http://www.wto168.net/newweb/member/images/nopic.gif'" src="/newWeb/uploads/userup/213192/myface.jpg"  width="33" height="33" />jymcn2</a></li><li style="position:relative;height:76px"  onmouseover="shown('578')"
+onmouseout="hiden('578')"
+>
+              <div id='578' style="display:none;position:absolute;top:30px;width: 60px;height: 60px;z-index: 11;left: 0px;text-align: left;"><a href="http://www.wto168.net/im/index.php?uid=huangjin1&talk=1" style="
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    background: #eee;
+">µã»÷ÁÄÌì</a><a href="http://www.wto168.net/mg-huangjin1/" style="
+    width: 100%;  height: 20px;  line-height: 20px;  
+    background: #eee;
+">²é¿´Ö÷Ò³</a></div>
+              <a href="http://www.wto168.net/mg-huangjin1/" target="_blank"><img face="" onerror="src='http://www.wto168.net/newweb/member/images/nopic.gif'" src="http://www.wto168.net/newweb/member/images/nopic.gif"  width="33" height="33" />huangj</a></li><li style="position:relative;height:76px"  onmouseover="shown('577')"
+onmouseout="hiden('577')"
+>
+              <div id='577' style="display:none;position:absolute;top:30px;width: 60px;height: 60px;z-index: 11;left: 0px;text-align: left;"><a href="http://www.wto168.net/im/index.php?uid=jiancha&talk=1" style="
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    background: #eee;
+">µã»÷ÁÄÌì</a><a href="http://www.wto168.net/mg-jiancha/" style="
+    width: 100%;  height: 20px;  line-height: 20px;  
+    background: #eee;
+">²é¿´Ö÷Ò³</a></div>
+              <a href="http://www.wto168.net/mg-jiancha/" target="_blank"><img face="" onerror="src='http://www.wto168.net/newweb/member/images/nopic.gif'" src="http://www.wto168.net/newweb/member/images/nopic.gif"  width="33" height="33" />jianch</a></li><li style="position:relative;height:76px"  onmouseover="shown('576')"
+onmouseout="hiden('576')"
+>
+              <div id='576' style="display:none;position:absolute;top:30px;width: 60px;height: 60px;z-index: 11;left: 0px;text-align: left;"><a href="http://www.wto168.net/im/index.php?uid=weihai&talk=1" style="
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    background: #eee;
+">µã»÷ÁÄÌì</a><a href="http://www.wto168.net/mg-weihai/" style="
+    width: 100%;  height: 20px;  line-height: 20px;  
+    background: #eee;
+">²é¿´Ö÷Ò³</a></div>
+              <a href="http://www.wto168.net/mg-weihai/" target="_blank"><img face="" onerror="src='http://www.wto168.net/newweb/member/images/nopic.gif'" src="http://www.wto168.net/newweb/member/images/nopic.gif"  width="33" height="33" />weihai</a></li><li style="position:relative;height:76px"  onmouseover="shown('575')"
+onmouseout="hiden('575')"
+>
+              <div id='575' style="display:none;position:absolute;top:30px;width: 60px;height: 60px;z-index: 11;left: 0px;text-align: left;"><a href="http://www.wto168.net/im/index.php?uid=xiehua&talk=1" style="
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    background: #eee;
+">µã»÷ÁÄÌì</a><a href="http://www.wto168.net/mg-xiehua/" style="
+    width: 100%;  height: 20px;  line-height: 20px;  
+    background: #eee;
+">²é¿´Ö÷Ò³</a></div>
+              <a href="http://www.wto168.net/mg-xiehua/" target="_blank"><img face="" onerror="src='http://www.wto168.net/newweb/member/images/nopic.gif'" src="http://www.wto168.net/newweb/member/images/nopic.gif"  width="33" height="33" />xiehua</a></li>
+          </ul>
+        </div>
+        <!-- /latestlogin --></div>
+    </li>
+    <li>
+      <div class="box" id="freebakid" title="Òâ¼û·´À¡"><img src="/newWeb/images2/r_menu_09.png" /></div>
+      <!-- Òâ¼û·´À¡ -->
+      <div id="hfreeback" class="hfreeback">
+      <form action="">
+      <div class="tit">Òâ¼û·´À¡<a class="hg_right"href="javascript:closes();"><img style="vertical-align:middle" src="/newWeb/images2/cosexx.jpg" /></a></div>
+      <p style="font-size:13px; color:#969696; border-left:2px solid #F00;padding:10px; line-height:15px;margin:6px 0">ÇëÃèÊöÄúÓöµ½µÄÎÊÌâ»òÄúµÄÒâ¼û¡¢½¨Òé</p>
+      <textarea name="" class="textars"></textarea>
+        <p style="font-size:13px; color:#969696; border-left:2px solid #005aff;padding:10px; line-height:15px;margin:6px 0">ÇëÁôÏÂÄúµÄÁªÏµ·½Ê½</p>
+        <input  class="input" name="" onblur="if (value ==''){value='qq/ÓÊÏä/µç»°'}" onfocus="if (value =='qq/ÓÊÏä/µç»°'){value =''}" value="qq/ÓÊÏä/µç»°"/>
+        <div  style="margin:10px 0">
+        <input  style=" border:1px solid #dcdcdc; width:100px; height:25px;padding-left:15px" onblur="if (value ==''){value='ÑéÖ¤Âë'}" onfocus="if (value =='ÑéÖ¤Âë'){value =''}" value="ÑéÖ¤Âë"  /><img style="width:120px;height:27px;vertical-align: middle; margin-left:20px" id="vocde" src="../include/vdimgck.php" onclick="changesvico()" />
+        
+
+        </div>
+           <input class="subbtn" type="submit" value="Ìá½»·´À¡" />
+           </form>
+      </div>
+      <!-- Òâ¼û·´À¡ -->
+    </li>
+    <li>
+      <div class="box" id="wxt"><img src="/newWeb/images2/r_menu_11.png" /></div>
+      <div class="wxs"><img src="/newWeb/images2/weixin.jpg" /></div>
+    </li>
+	<li>
+      <div class="box" id="lxtg"><img src="/newWeb/images2/r_menu_02.png" /></div>
+	       <!-- ÁªÏµÍ¶¸å -->
+      <div id="lxtgbox" class="hfreeback" style="height:auto">
+      
+      <div class="tit">ÁªÏµÍ¶¸å<a class="hg_right"href="javascript:closes();"><img style="vertical-align:middle" src="/newWeb/images2/cosexx.jpg" /></a></div>
+   
+        <p style="font-size:13px; color:#969696; border-left:2px solid #005aff;padding:10px; line-height:15px;margin:6px 0">ÇëÄúÁªÏµÍ¶¸å¸ºÔðÈË</p>
+		<p style="font-size: 14px;margin: 2px 0;color:#505050;   font-family: 'ËÎÌå';">ÓÊ    Ïä£ºkulouling@qq.com</p>
+		<p  style="font-size: 14px;margin: 2px 0;color:#505050;   font-family: 'ËÎÌå';">ÁªÏµÈË£ºÁõ¼ÇÕß</p>
+		<p  style="font-size: 14px;margin: 2px 0;color:#505050;   font-family: 'ËÎÌå';">ÁªÏµ·½Ê½£º18002548377</p>
+      
+      </div>
+      <!-- ÁªÏµÍ¶¸å -->
+    </li>
+    <li>
+      <div class="box" id="totop"><img src="/newWeb/images2/r_menu_18.png" /></div>
+    </li>
+  </ul>
+</div>
+<script type="application/javascript">
+$("#lxtg").click(function(){
+	if($("#lxtgbox").css("display")=="none")
+	{
+	$("#lxtgbox").css("display","block");
+	}else{
+	$("#lxtgbox").css("display","none");
+	}
+});
+function changesvico(){
+var vodesrc='../include/vdimgck.php?d='+Math.random()*10000000;
+$("#vocde").attr('src',vodesrc);
+}
+$(window).scroll(function(){
+    if($(window).scrollTop()>350){
+			
+			 $(".hg_rmenu").css("top","auto");
+		 $(".hg_rmenu").css("bottom","210px");
+		
+  
+      };
+
+	      if($(window).scrollTop()<350){
+			
+			 $(".hg_rmenu").css("top","397px");
+		 $(".hg_rmenu").css("bottom","auto");
+		
+  
+      };
+
+	 
+   });
+
+$("#jishitongid").click(function(){
+	if($(".jishitong").css("display")=="none")
+	{
+	$(".jishitong").css("display","block");
+	}else{
+	$(".jishitong").css("display","none");
+	}
+	
+	});
+$("#freebakid").click(function(){
+if($("#hfreeback").css("display")=="none")
+	{
+	$("#hfreeback").css("display","block")
+	}else{
+	$("#hfreeback").css("display","none");
+	}
+
+	});
+function closes(){
+	$(".hfreeback").css("display","none")
+	}
+$("#wxt").click(function(){
+if($(".wxs").css("display")=="none")
+	{
+	$(".wxs").fadeIn();
+	}else{
+	$(".wxs").fadeOut();
+	}
+	})
+$("#totop").click(function(){
+      var speed=500;//»¬¶¯µÄËÙ¶È
+        $('body,html').animate({ scrollTop: 0 }, speed);
+        return false;
+	
+	});
+var wwid=$(window).width();
+var rights=wwid/2-490-60;
+
+$(".hg_rmenu").css("right",rights+"px");
+</script>
+<!-- ÓÒ²à²Ëµ¥ -->
+</BODY>
+</HTML>
